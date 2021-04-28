@@ -1,4 +1,4 @@
-# Case study Sunspots
+# Case study in order to predict the total sunspots number 
 
 # Objective
 

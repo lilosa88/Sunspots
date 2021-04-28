@@ -19,7 +19,9 @@ Specifically this project is part of the second course in this specialization.
 
 # Data description
 
-- Date	
+- Date: Date in which the total sunspot number was taken, in the format year-month-day
 - Monthly Mean Total Sunspot Number
+
+
 
 

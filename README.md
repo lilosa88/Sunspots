@@ -24,8 +24,14 @@ Specifically this project is part of the second course in this specialization.
 
 # Data exploration
 
+-Loking at how the monthly mean total sunspot number changes with the time we observe a bit of seaonality. However it is not very regular with some peaks much higher than others. We also have a bit of noise but there is not general trend.
+
  <p align="center">
    <img src="https://github.com/lilosa88/Sunspots/blob/main/Images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2021.37.52.png" width="560" height="320">
   </p>
 
+# Feature engineering
+
+-  We split our series into a training and validation datatests. We select split_time= 3000.
+-  We set all the constants for our neural network model. Window_size = 20, batch_size = 32 and shuffle_buffer_size = 1000.
 

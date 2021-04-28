@@ -50,7 +50,7 @@ Specifically this project is part of the second course in this specialization.
   </p>
   
    <p align="center">
-   <img src="https://github.com/lilosa88/Sunspots/blob/main/Images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2021.37.52.png" width="560" height="320">
+   <img src="https://github.com/lilosa88/Sunspots/blob/main/Images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2021.53.40.png" width="560" height="320">
   </p>
 
 
